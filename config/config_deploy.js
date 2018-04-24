@@ -2,15 +2,15 @@
 var config_deploy = {
     
     // obligatory fields
-    "author": "RandomJane",  // needed to recover data from server app
-    "experiment_id": "MinimalTemplateDEBUG", // needed to recover data from server app
+    "author": "zzuluagar",  // needed to recover data from server app
+    "experiment_id": "templatetry", // needed to recover data from server app
     "description": "A minimal template for a browser-based experiment which can be deployed in several ways",
-    "deployMethod" : "debug", // set deployment method; use one of:
+    "deployMethod" : 'directLink', // set deployment method; use one of:
 	                          //'debug', 'localServer', 'MTurk', 
 	                          // 'MTurkSandbox', 'Prolific', 'directLink'
     
     // optional fields
-    "contact_email": "YOUREMAIL@wherelifeisgreat.you", // who to contact in case of trouble
+    "contact_email": "zzuluagar@gmail.com", // who to contact in case of trouble
 };
 
 // user does not (should not) change the following information
