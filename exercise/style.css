@@ -1,0 +1,15 @@
+html,
+head {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: green;
+	background-color: #d8da3d;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
